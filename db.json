@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "id": "test12",
+      "name": "test user",
+      "password": "$2a$10$CoSKJ62GJBetsXecRqBM.O1cU7dzmN5bVzPwJbwlCP.xgRpe/ASFO",
+      "email": "test@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "rahul",
+      "name": "Rhaul",
+      "password": "$2a$10$.ztbnuCKRzsu6SuUvKqQ.eKzeCEgmuSGgQlAAePkOT7BKZKW6Q2Me",
+      "email": "Rahul@123",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "rakhi",
+      "name": "rakhi sinha",
+      "password": "$2a$10$.xMJA2QpQ96/1UhTFsEcZu8u0gp6OTcBxMoDQ9q7kIRnJqAWrcnG.",
+      "email": "rahulsinha@gmail.ccm",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
+  ],
+  "mySecrets": [
+    {
+      "id": "test12",
+      "secret": [
+        "sbqjhdvha",
+        "dfgshdfgfs",
+        "dfgbgsdf",
+        "fasvdxc",
+        "vdscx",
+        "fgbsdfdasz",
+        "dgbhgbdvscxa"
+      ]
+    },
+    {
+      "id": "rahul",
+      "secret": [
+        "sbqjhdvha",
+        "dfgshdfgfs",
+        "dfgbgsdf",
+        "fasvdxc",
+        "vdscx",
+        "fgbsdfdasz"
+      ]
+    },
+    {
+      "id": "rakhi",
+      "secret": [
+        "dfgehtgfsdas",
+        "dfgehtgfsdasdfsdgbfvsd",
+        "dfgehtgfsdasdfsdgbfvsdsdasfdgfgfsd",
+        "afsgdrhtjuyijhrgefd",
+        "dfsddcsxZ"
+      ]
+    }
+  ]
+}
